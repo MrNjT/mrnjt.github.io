@@ -1,6 +1,3 @@
-Latency constraint guided buffer sizing and layer assignment for clock trees with useful skew
-N Uysal, WH Liu, R Ewetz
-Proceedings of the 24th Asia and South Pacific Design Automation Conference 
 ---
 title: "Latency constraint guided buffer sizing and layer assignment for clock trees with useful skew"
 collection: publications
