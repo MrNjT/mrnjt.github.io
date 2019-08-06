@@ -31,6 +31,7 @@ Skills
   * C, C++
   * Embedded C
   * Python
+  
 * Softwares & Tools & Scripting
   * Matlab
   * IBM Cplex
