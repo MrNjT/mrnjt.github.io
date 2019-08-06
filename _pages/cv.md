@@ -24,7 +24,6 @@ Work experience
 * Summer 2017: Research Assistant
   * University of Central Florida
   * Research : Developing Clock Tree Optimization Framework
-  * Supervisor: Dr. Rickard Ewetz
   
 Skills
 ======
