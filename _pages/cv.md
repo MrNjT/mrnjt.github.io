@@ -28,8 +28,9 @@ Work experience
 Skills
 ======
 * Programming Languages
-  *C, C++, Embedded C
-  *Python
+  * C, C++
+  * Embedded C
+  * Python
 * Softwares & Tools & Scripting
   * Matlab
   * IBM Cplex
