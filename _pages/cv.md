@@ -27,12 +27,16 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  *C, C++, Embedded C
+  *Python
+* Softwares & Tools & Scripting
+  * Matlab
+  * IBM Cplex
+  * Cadence Virtuoso
+  * HSpice, Ngspice scripting
+  * bash, tcl scripting (intermediate)
+
 
 Publications
 ======
@@ -52,6 +56,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Services and Memberships
 ======
-* Currently signed in to 43 different slack teams
+* IEEE Grad Student Member
