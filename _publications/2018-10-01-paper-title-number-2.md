@@ -1,11 +1,11 @@
 ---
 title: "OCV Guided Clock Tree Topology Reconstruction"
 collection: publications
-permalink: /publication/ASPDAC18
+permalink: /publication/OCV
 excerpt: 'In this paper, a framework that performs OCV guided clock tree topology reconstruction is proposed. 
 The framework reconstructs the topology of a clock tree while improving the lower bounds on the worst negative slack (WNS)
 and the total negative slack (TNS). Next, traditional CTO is employed to reduce WNS and TNS to the improved lower bounds'
-date: 2019-01-21
+date: 2018-01-21
 venue: 'Asia and South Pacific Design Automation Conference'
 paperurl: 'https://ieeexplore.ieee.org/document/8297372'
 citation: ''
@@ -27,3 +27,5 @@ pLB-SG. The experimental results demonstrate that the proposed framework can on 
 [Download paper here](https://ieeexplore.ieee.org/document/8297372)
 
 Recommended citation: N Uysal, R Ewetz. (2018). "OCV Guided Clock Tree Topology Reconstruction" <i>ASPDAC'18</i>. 1(2).
+
+
