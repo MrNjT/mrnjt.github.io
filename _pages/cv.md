@@ -20,10 +20,6 @@ Work experience
 * 07/2013 - 07/2014: R&D Engineer
   * EuroTechLab Co.
   * Duties included: Embedded Software Development & Test 
-
-* Summer 2017: Research Assistant
-  * University of Central Florida
-  * Research : Developing Clock Tree Optimization Framework
   
 Skills
 ======
