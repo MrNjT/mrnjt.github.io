@@ -19,7 +19,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 “jekyll”, “=3.9.3”
-bundle update jekyllbundle update jekyll
+bundle update jekyll
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
