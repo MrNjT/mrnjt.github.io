@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Necati Uysal"
-  avatar           : "profile.png.jpg"
-  bio              : "Computer Eng, Phd Candidate"
-  location         : "Orlando, FL"
-  employer         : "University of Central Florida"
+  avatar           : "bio_pic.jpg"
+  bio              : "Lead Software Engineer \n Ph.D. "https://www.ucf.edu"
+  location         : "Austin, Texas, USA"
+  employer         : "Cadence Design Systems"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=qanypPsAAAAJ&hl=en"
-  email            : "necati@knights.ucf.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "necatiuysal@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Necati-Uysal" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "necatiuysal"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-9543-3823"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
