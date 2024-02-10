@@ -1,4 +1,3 @@
+Welcome to my webpage! I am a Lead Software Engineer at Cadence Design Systems in Austin, Texas. I earned my Master's and Ph.D. degrees from the Department of Electrical and Computer Engineering at the University of Central Florida in 2017 and 2021, respectively.
 
-Hello, welcome to my webpage. 
-I am a PhD. candidate in the department of Electrical and Computer Engineering at UCF. My research interest lies in the field of Electronic Design Automation with the emphasis on Physical design of Very-Large-Scale-Integrated circuits. Currently. I am working on synthesizing and optimizing  robust clock distribution networks for ICs .
-
+My research focus is in the field of Electronic Design Automation, with a particular emphasis on the Physical Design of Very-Large-Scale-Integrated Circuits (VLSI). Specifically, my research involves synthesizing and optimizing robust clock distribution networks for integrated circuits (ICs). Additionally, my research interest extends to the area of Computer Aided Design for Emerging Technologies.
