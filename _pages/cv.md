@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Clock Network Synthesis and Optimization, University of Central Florida, 2021
+* Ph.D in Computer Engineering, University of Central Florida, 2021
 * M.S. in Electrical Engineering, University of Central Florida, 2017
-* B.S. in Electrical Engineering, University of Gaziantep, 2013
+* B.S. in Electrical and Electronics Engineering, University of Gaziantep, 2013
 
 Work experience
 ======
