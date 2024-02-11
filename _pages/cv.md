@@ -36,6 +36,11 @@ Skills
   * HSpice, Ngspice scripting
   * bash, tcl scripting
 
+Research Interest
+======
+Electronic Design Automation
+Physical Design of VLSI
+Computer Aided Design for Emerging Technologies
 
 Publications
 ======
