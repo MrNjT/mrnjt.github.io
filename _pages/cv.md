@@ -11,16 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, University of Gaziantep, 2013
+* Ph.D in Clock Network Synthesis and Optimization, University of Central Florida, 2021
 * M.S. in Electrical Engineering, University of Central Florida, 2017
-* Ph.D in Clock Network Synthesis and Optimization, University of Central Florida, 2021 (expected)
+* B.S. in Electrical Engineering, University of Gaziantep, 2013
 
 Work experience
 ======
-* 07/2013 - 07/2014: R&D Engineer
-  * EuroTechLab Co.
-  * Duties included: Embedded Software Development & Test 
-  
+* 01/2022 - Present: Lead Software Engineer at Cadence Design Systems
+* 05/2021 - 09/2021: Intern Software Engineer at Cadence Design Systems
+* 01/2017 - 12/2021: Research and Teaching Assistant at University of Central Florida
+* 07/2013 - 07/2014: R&D - Embedded Systems Engineering at EuroTechLab (Euroquipments) 
+    
 Skills
 ======
 * Programming Languages
@@ -33,7 +34,7 @@ Skills
   * IBM Cplex
   * Cadence Virtuoso
   * HSpice, Ngspice scripting
-  * bash, tcl scripting (intermediate)
+  * bash, tcl scripting
 
 
 Publications
